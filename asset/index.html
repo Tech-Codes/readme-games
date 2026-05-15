@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+    #target {
+      width: 40px;
+      height: 40px;
+      background: lime;
+      position: absolute;
+      border-radius: 6px;
+      cursor: pointer;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      background: #238636;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<h1>🎮 Pixel Hunter</h1>
+<p>Click the green box as fast as possible!</p>
+<h2>Score: <span id="score">0</span></h2>
+
+<div id="game">
+  <div id="target"></div>
+</div>
+
+<button onclick="startGame()">Start Game</button>
+
+<script>
+  const target = document.getElementById('target');
+  const scoreText = document.getElementById('score');
+
+  let score = 0;
+
+  function moveTarget() {
+    const x = Math.random() * 260;
+    const y = Math.random() * 260;
+
+    target.style.left = x + 'px';
+    target.style.top = y + 'px';
+  }
+
+  target.addEventListener('click', () => {
+    score++;
+    scoreText.textContent = score;
+    moveTarget();
+  });
+
+  function startGame() {
+    score = 0;
+    scoreText.textContent = score;
+    moveTarget();
+  }
+</script>
+
+</body>
+</html>
