@@ -5,16 +5,19 @@
 
 ## Contribution Snake
 
+
 <p align="center">
-![Snake animation](https://github.com/Tech-Codes/readme-games/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/Tech-Codes/readme-games/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
 
 ## Contribution Pacman
 
 <p align="center">
-![Pacman contribution graph](https://raw.githubusercontent.com/Tech-Codes/readme-games/output/pacman-contribution-graph.svg)
+  <img src="https://raw.githubusercontent.com/Tech-Codes/readme-games/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
 </p>
+
+
 
 ## Dino
 
