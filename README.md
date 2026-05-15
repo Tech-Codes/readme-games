@@ -6,3 +6,7 @@
 ## Contribution Snake
 
 ![Snake animation](https://github.com/Tech-Codes/readme-games/blob/output/github-contribution-grid-snake.svg)
+
+## Contribution Pacman
+
+![Pacman contribution graph](https://raw.githubusercontent.com/Tech-Codes/readme-games/output/pacman-contribution-graph.svg)
