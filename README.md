@@ -5,7 +5,6 @@
 
 ## Contribution Snake
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tech-Codes/readme-games/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
@@ -22,9 +21,10 @@
 ## Dino
 
 <p align="center">
-  <a href="./asset/dino.gif">🦖 Dino</a>
+  <img src="https://raw.githubusercontent.com/Tech-Codes/readme-games/main/asset/dino.gif"
+    alt="Dino GIF"width="1200"height="400"
+  >
 </p>
-
 
 ## 🎮 Play My Game
 
