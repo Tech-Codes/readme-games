@@ -31,7 +31,7 @@
 
 <div align="center">
 # 🚀 Space Runner
-<img src="./assets/space-runner.svg" width="100%" />
+<img src="./asset/space-runner.svg" width="100%" />
 </div>
 
 ## 🎮 Play My Game
