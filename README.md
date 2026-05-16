@@ -30,7 +30,6 @@
 ## Space Runner
 
 <div align="center">
-# 🚀 Space Runner
 <img src="./asset/space-runner.svg" width="100%" />
 </div>
 
