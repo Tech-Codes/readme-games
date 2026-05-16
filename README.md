@@ -33,6 +33,10 @@
 <img src="./asset/space-runner.svg" width="100%" />
 </div>
 
+
+# Space Runner Animation
+
+![Space Runner](https://raw.githubusercontent.com/Tech-Codes/readme-games/main/assets/space-runner.svg)
 ## 🎮 Play My Game
 
 [Play Pixel Hunter](https://Tech-Codes.github.io/readme-games/game/)
