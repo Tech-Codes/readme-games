@@ -10,6 +10,9 @@
 </p>
 
 
+
+
+
 ## 📈 Activity Graph
 
 <p align="center">
@@ -41,10 +44,12 @@
 ---
 
 ## Contribution Calendar
-![Contribution](https://ghchart.rshah.org/Tech-Codes)
+<p align="center">
+  <img src="https://ghchart.rshah.org/Tech-Codes" width="90%" alt="GitHub Contribution Chart" />
+</p>
+
 
 ## Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tech-Codes/readme-games/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
@@ -82,3 +87,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tech-Codes&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
+
+
+## ✨ Animated Footer
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=footer"/>
