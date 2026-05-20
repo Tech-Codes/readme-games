@@ -1,7 +1,13 @@
 # readme-games
 🎮 Add interactive mini games to your GitHub profile README and make your profile more fun, engaging, and unique.
 
-
+## Random Dev Meme
+<p align="center">
+  <img 
+    src="https://readme-jokes.vercel.app/api?theme=github-dark&hideBorder"
+    width="100%"
+  />
+</p>
 
 ## Contribution Snake
 
