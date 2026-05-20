@@ -27,11 +27,6 @@
 </p>
 
 
-## Space Runner
-
-<div align="center">
-<img src="./asset/space-runner.svg" width="100%" />
-</div>
 
 
 # Space Runner Animation
