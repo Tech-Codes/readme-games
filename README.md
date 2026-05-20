@@ -10,6 +10,13 @@
 </p>
 
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Codes&theme=github-dark&hide_border=true" />
+</p>
+
+
 ## Contribution Snake
 
 <p align="center">
@@ -42,3 +49,10 @@
 ## 🎮 Play My Game
 
 [Play Pixel Hunter](https://Tech-Codes.github.io/readme-games/game/)
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tech-Codes&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
