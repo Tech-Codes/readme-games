@@ -74,20 +74,6 @@
 </p>
 
 
-+---+---+---+---+---+
-| R | . | C | X | . |
-+---+---+---+---+---+
-| . | A | . | C | . |
-+---+---+---+---+---+
-| C | . | X | . | P |
-+---+---+---+---+---+
-
-R = Rocket
-C = Crystal
-X = Enemy
-P = Portal
-A = Asteroid
-
 
 
 # Space Runner Animation
