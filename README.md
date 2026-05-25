@@ -74,6 +74,18 @@
 </p>
 
 
+```yaml
+Player:
+  Name: Rahul Kumar
+  Class: Cyber Hacker
+  Level: 2077
+  XP: 99999
+  Skills:
+    - React
+    - Node.js
+    - Python
+    - AI
+```
 
 
 # Space Runner Animation
